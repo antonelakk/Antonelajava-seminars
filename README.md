@@ -1,3 +1,12 @@
+
+## My GitHub Flow Practice
+
+I am learning the GitHub Flow workflow.
+
+I created a branch to practice making changes safely.
+
+I will use commits and pull requests to manage my work.
+
 ## About Me
 
 I am a Computer Engineering student learning programming and GitHub.
